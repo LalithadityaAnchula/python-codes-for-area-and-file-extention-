@@ -4,4 +4,4 @@ str=fname.split('.')
 if str[-1]!='py':
     print("The extention of the file is : ","'",str[-1],"'")
 else:
-    print("The extension of the file is : python")
+    print("The extension of the file is : 'python'")
